@@ -1,0 +1,4 @@
+baseURL = "https://linas.pages.dev"
+languageCode = "en-us"
+title = "linas"
+theme = "tale"
